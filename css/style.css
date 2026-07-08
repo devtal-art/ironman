@@ -86,7 +86,7 @@ body {
 }
 
 .logo {
-    width: 96px;
+    /*width: 96px;*/
     height: 96px;
     border-radius: 50%;
     object-fit: contain;
@@ -102,7 +102,7 @@ h1 {
 
 p.subtitle {
     /* margin-top: 4px; */
-    font-size: 0.9rem;
+    /*font-size: 0.9rem;*/
     color: #334E68;
     /* Slightly dark greyish-blue */
 }
